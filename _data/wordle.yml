@@ -1,0 +1,13 @@
+
+  - number: 385
+    score: 3
+    board:
+      - "🟨🟨🟨⬛🟨"
+      - "🟨⬛🟩🟩🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "almost almost almost no almost"
+      - "almost no yes yes yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-07-09"
