@@ -37,3 +37,15 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-07-12"
+  - number: 388
+    score: 3
+    board:
+      - "⬛⬛⬛⬛🟩"
+      - "⬛⬛⬛⬛🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no no no yes"
+      - "no no no no yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-07-12"
