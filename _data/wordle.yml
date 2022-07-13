@@ -49,3 +49,17 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-07-12"
+  - number: 389
+    score: 4
+    board:
+      - "🟨⬛🟩🟨⬛"
+      - "⬛🟩🟩⬛🟩"
+      - "🟩🟩🟩⬛🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "almost no yes almost no"
+      - "no yes yes no yes"
+      - "yes yes yes no yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-07-13"
