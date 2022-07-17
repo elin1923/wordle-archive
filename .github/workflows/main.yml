@@ -21,8 +21,3 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -am "${{ env.WordleSummary }}"
           git push
-      - name: Close issue
-        uses: peter-evans/close-issue@v1
-        with:
-          issue-number: "${{ env.IssueNumber }}"
-          comment: "Added ${{ env.WordleSummary }}"
