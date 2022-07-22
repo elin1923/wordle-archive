@@ -101,3 +101,17 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-07-17"
+  - number: 398
+    score: 4
+    board:
+      - "⬛⬛⬛⬛🟩"
+      - "⬛⬛⬛⬛🟩"
+      - "🟨⬛⬛🟨🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no no no yes"
+      - "no no no no yes"
+      - "almost no no almost yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-07-22"
