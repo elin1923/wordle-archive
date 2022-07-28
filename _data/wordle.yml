@@ -165,3 +165,19 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-07-27"
+  - number: 404
+    score: 5
+    board:
+      - "⬛⬛⬛⬛🟨"
+      - "🟨⬛🟩⬛⬛"
+      - "⬛⬛🟩🟨⬛"
+      - "🟩🟩🟩⬛⬛"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no no no almost"
+      - "almost no yes no no"
+      - "no no yes almost no"
+      - "yes yes yes no no"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-07-28"
