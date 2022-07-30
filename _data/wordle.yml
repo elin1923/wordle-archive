@@ -181,3 +181,17 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-07-28"
+  - number: 406
+    score: 4
+    board:
+      - "⬛⬛⬛🟨⬛"
+      - "🟨⬛⬛⬛⬛"
+      - "⬛🟩🟩🟩🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no no almost no"
+      - "almost no no no no"
+      - "no yes yes yes yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-07-30"
