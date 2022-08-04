@@ -195,3 +195,19 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-07-30"
+  - number: 411
+    score: 5
+    board:
+      - "⬛🟨⬛⬛⬛"
+      - "⬛🟩🟨⬛⬛"
+      - "⬛🟩⬛⬛🟩"
+      - "⬛🟩⬛⬛🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no almost no no no"
+      - "no yes almost no no"
+      - "no yes no no yes"
+      - "no yes no no yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-08-04"
