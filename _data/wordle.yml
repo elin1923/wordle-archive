@@ -263,3 +263,15 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-08-11"
+  - number: 420
+    score: 3
+    board:
+      - "⬛⬛⬛⬛⬛"
+      - "⬛⬛⬛⬛🟨"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no no no no"
+      - "no no no no almost"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-08-13"
