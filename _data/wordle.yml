@@ -275,3 +275,17 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-08-13"
+  - number: 421
+    score: 4
+    board:
+      - "⬛⬛🟩⬛⬛"
+      - "⬛🟩🟩⬛⬛"
+      - "⬛🟩🟩🟩⬛"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no yes no no"
+      - "no yes yes no no"
+      - "no yes yes yes no"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-08-14"
