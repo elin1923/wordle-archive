@@ -301,3 +301,19 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-08-15"
+  - number: 423
+    score: 5
+    board:
+      - "⬛🟨⬛🟨⬛"
+      - "⬛🟨🟨⬛⬛"
+      - "⬛⬛⬛🟩🟩"
+      - "⬛⬛⬛🟩🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no almost no almost no"
+      - "no almost almost no no"
+      - "no no no yes yes"
+      - "no no no yes yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-08-17"
