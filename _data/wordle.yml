@@ -331,3 +331,15 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-08-17"
+  - number: 425
+    score: 3
+    board:
+      - "⬛⬛🟩⬛🟨"
+      - "🟩⬛🟩🟩🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no no yes no almost"
+      - "yes no yes yes yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-08-18"
