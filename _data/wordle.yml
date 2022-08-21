@@ -355,3 +355,19 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-08-19"
+  - number: 428
+    score: 5
+    board:
+      - "⬛🟨🟨⬛🟨"
+      - "🟨⬛🟨🟨⬛"
+      - "⬛🟩🟩🟩🟩"
+      - "⬛🟩🟩🟩🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no almost almost no almost"
+      - "almost no almost almost no"
+      - "no yes yes yes yes"
+      - "no yes yes yes yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-08-21"
