@@ -439,3 +439,15 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-09-05"
+  - number: 455
+    score: 3
+    board:
+      - "⬛🟨⬛⬛🟨"
+      - "🟨🟩⬛⬛🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no almost no no almost"
+      - "almost yes no no yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-09-17"
