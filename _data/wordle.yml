@@ -467,3 +467,21 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-09-18"
+  - number: 457
+    score: 6
+    board:
+      - "⬛🟨⬛⬛🟨"
+      - "🟩⬛⬛⬛🟩"
+      - "🟩🟩🟩⬛🟩"
+      - "🟩🟩🟩⬛🟩"
+      - "🟩🟩🟩⬛🟩"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no almost no no almost"
+      - "yes no no no yes"
+      - "yes yes yes no yes"
+      - "yes yes yes no yes"
+      - "yes yes yes no yes"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-09-19"
