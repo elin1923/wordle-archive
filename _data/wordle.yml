@@ -499,3 +499,17 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-09-20"
+  - number: 459
+    score: 4
+    board:
+      - "⬛🟩🟨⬛⬛"
+      - "⬛🟩🟩🟩⬛"
+      - "🟨🟩🟩🟩⬛"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no yes almost no no"
+      - "no yes yes yes no"
+      - "almost yes yes yes no"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-09-22"
