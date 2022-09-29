@@ -537,3 +537,13 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-09-26"
+  - number: 467
+    score: 2
+    board:
+      - "🟨⬛🟩🟩⬛"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "almost no yes yes no"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-09-29"
