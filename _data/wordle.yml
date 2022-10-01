@@ -561,3 +561,21 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-10-01"
+  - number: 469
+    score: "X"
+    board:
+      - "⬛⬛⬛🟨🟨"
+      - "⬛⬛⬛🟨🟨"
+      - "⬛⬛⬛🟨🟨"
+      - "⬛⬛⬛🟨🟨"
+      - "⬛⬛⬛🟨🟨"
+      - "⬛⬛⬛🟨🟨"
+    boardWords:
+      - "no no no almost almost"
+      - "no no no almost almost"
+      - "no no no almost almost"
+      - "no no no almost almost"
+      - "no no no almost almost"
+      - "no no no almost almost"
+    won: false
+    date: "2022-10-01"
