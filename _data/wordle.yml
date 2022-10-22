@@ -623,3 +623,15 @@
       - "yes yes yes yes yes"
     won: true
     date: "2022-10-09"
+  - number: 490
+    score: 3
+    board:
+      - "⬛🟨⬛🟨⬛"
+      - "🟩🟨🟩⬛🟨"
+      - "🟩🟩🟩🟩🟩"
+    boardWords:
+      - "no almost no almost no"
+      - "yes almost yes no almost"
+      - "yes yes yes yes yes"
+    won: true
+    date: "2022-10-22"
